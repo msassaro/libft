@@ -2,7 +2,7 @@
 
 Personal library that implements some of the C standard library functions.
 
-### TOC
+### Introduction
 * [What is libft?](#what-is-libft)
 * [What's in it?](#whats-in-it)
 * [How does it work?](#how-does-it-work)
