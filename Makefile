@@ -103,6 +103,8 @@ SRCS	= \
 			ft_str_digit.c\
 			ft_str_alpha.c\
 			ft_explode_count.c\
+			ft_remove_char.c\
+			ft_replace_char_by.c\
 			ft_remove_white_spaces.c\
 			ft_strcpy_startend.c
 
