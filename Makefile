@@ -148,11 +148,11 @@ $(NAME):$(OBJS)
 
 clean:
 	@/bin/rm -rf $(OBJS)
-	@echo "$(SKIP)$(NAMING)Clean   $(GREEN)✔$(EOC)"
+	@echo "$(NAMING)Clean   $(GREEN)✔$(EOC)"
 
 fclean: clean
 	@/bin/rm -rf $(NAME)
-	@echo "$(SKIP)$(NAMING)Fclean  $(GREEN)✔$(EOC)"
+	@echo "$(NAMING)Fclean  $(GREEN)✔$(EOC)"
 
 re: fclean all
 
