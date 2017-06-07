@@ -78,6 +78,8 @@ char				*ft_str_replace_char(char *str, char old, char new_str);
 int					ft_explode_count(char *line, char separator);
 char				*ft_strcpy_startend(char *src, int start, int end);
 char				*ft_remove_white_spaces(char *str, char c);
+char				*ft_remove_char(char *str, char c);
+char				*ft_replace_char_by(char *str, char c, char n);
 
 /*
 ** memory functions
